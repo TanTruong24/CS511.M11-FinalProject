@@ -1,0 +1,568 @@
+﻿stt,logo_name,company_name,location,field,people,country,working_day,time
+1,logo-1.png,Nimble,"Ho Chi Minh, Da Nang",Outsourcing,51-150,Thailand,Monday - Friday,No OT
+2,logo-2.png,Easy IT Solutions,"District 3, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+3,logo-3.png,Vietnam International Bank (VIB),"Ha Noi, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,none
+4,logo-4.png,Robert Bosch Engineering And Business Solutions,"Ho Chi Minh, Ha Noi",Product,18264,Germany,Monday - Friday,No OT
+5,logo-5.png,Shopee,"Others, Ho Chi Minh",Product,1000+,Singapore,Monday - Friday,No OT
+6,logo-6.png,Codix,"Tan Binh, Ho Chi Minh",Product,51-150,France,Monday - Friday,Extra salary for OT
+7,logo-7.png,Yojee,"District 4, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+8,logo-8.png,Wonderlabs,"Ho Chi Minh, Da Nang",Outsourcing,18264,Singapore,Monday - Friday,No OT
+9,logo-9.png,QUOINE,"District 1, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+10,logo-10.png,FOURDIGIT VIETNAM,"District 2, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+11,logo-11.png,ATM Online,"Binh Thanh, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+12,logo-12.png,Be Group,"Ha Noi, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,Extra salary for OT
+13,logo-13.png,Tyme,"Ho Chi Minh, Ha Noi",Product,151-300,Vietnam,Monday - Friday,No OT
+14,logo-14.png,DEK Technologies,"District 1, Ho Chi Minh",Outsourcing,301-500,Australia,Monday - Friday,No OT
+15,logo-15.png,Forix,"Phu Nhuan, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,Extra salary for OT
+16,logo-16.png,VINX VIETNAM,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+17,logo-17.png,Avenue,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,Extra salary for OT
+18,logo-18.png,FireGroup,"Ho Chi Minh, Da Nang",Product,151-300,Vietnam,Monday - Friday,No OT
+19,logo-19.png,NAB in collaboration with Positive Thinking Company in Vietnam,Ho Chi Minh,Product,501-1000,Australia,Monday - Friday,No OT
+20,logo-20.png,Saigon Freelancer,"Go Vap, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,Extra salary for OT
+21,logo-21.png,Saigon Technology Solutions,"Ho Chi Minh, Da Nang",Outsourcing,151-300,Vietnam,Monday - Friday,Extra salary for OT
+22,logo-22.png,Công Ty Cổ Phần Sundata,"Thu Duc City, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+23,logo-23.png,NAVER VIETNAM,"District 1, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,Extra salary for OT
+24,logo-24.png,Tenpoint7,"District 1, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+25,logo-25.png,Grab (Vietnam) Ltd.,"District 7, Ho Chi Minh",Product,501-1000,Singapore,Monday - Friday,No OT
+26,logo-26.png,bbv Vietnam,"District 12, Ho Chi Minh",Outsourcing,51-150,Switzerland,Monday - Friday,No OT
+27,logo-27.png,Personify Incorporation,"Tan Binh, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+28,logo-28.png,TMA Solutions,"Ho Chi Minh, Others",Outsourcing,1000+,Vietnam,Monday - Friday,OT included in base salary
+29,logo-29.png,SUGAR VENTURES,"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+30,logo-30.png,VOYAGER JSC,"District 12, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+31,logo-31.png,ELSA,"Phu Nhuan, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+32,logo-32.png,Cafe24,"District 1, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+33,logo-33.png,Titan DMS,"District 11, Ho Chi Minh",Product,51-150,Australia,Monday - Friday,No OT
+34,logo-34.png,Capgemini Vietnam,"Phu Nhuan, Ho Chi Minh",Outsourcing,301-500,France,Monday - Friday,No OT
+35,logo-35.png,Chotot,"District 1, Ho Chi Minh",Product,151-300,Singapore,Monday - Friday,No OT
+36,logo-36.png,Galaxy Play,"Thu Duc City, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+37,logo-37.png,"Ohmyhotel&Co VN Co.,Ltd","District 2, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,none
+38,logo-38.png,Magnolia,"Tan Binh, Ho Chi Minh",Product,51-150,Switzerland,Monday - Friday,No OT
+39,logo-39.png,NashTech,"Ho Chi Minh, Ha Noi, Da Nang",Outsourcing,1000+,United Kingdom,Monday - Friday,No OT
+40,logo-40.png,Oivan,"Ho Chi Minh, Da Nang, Ha Noi",Outsourcing,51-150,Finland,Monday - Friday,No OT
+41,logo-41.png,"Viator, a Tripadvisor company, in partnership with Positive Thinking Company","Tan Binh, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+42,logo-42.png,NVG Technology,"District 10, Ho Chi Minh",Product,51-150,Switzerland,Monday - Friday,No OT
+43,logo-43.png,Hasaki,"District 10, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+44,logo-44.png,Datalogic Viá»‡t Nam,"Thu Duc, Ho Chi Minh",Product,501-1000,Italy,Monday - Friday,none
+45,logo-45.png,Employment Hero,"District 10, Ho Chi Minh",Product,301-500,Australia,Monday - Friday,No OT
+46,logo-46.png,Trusting Social,"Ho Chi Minh, Ha Noi",Product,151-300,Singapore,Monday - Friday,none
+47,logo-47.png,Cybozu Vietnam,"Phu Nhuan, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+48,logo-48.png,Sendo.vn,"Ho Chi Minh, Ha Noi",Product,501-1000,Vietnam,Monday - Friday,Extra salary for OT
+49,logo-49.png,Brycen Vietnam,"Others, Da Nang, Ho Chi Minh, Ha Noi",Outsourcing,301-500,Japan,Monday - Friday,Extra salary for OT
+50,logo-50.png,Motorist Pte Ltd,"Others, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+51,logo-51.png,Go1,"Phu Nhuan, Ho Chi Minh",Product,301-500,Australia,Monday - Friday,No OT
+52,logo-52.png,Home Credit Vietnam,Ho Chi Minh,Product,1000+,Czechia,Monday - Friday,No OT
+53,logo-53.png,AMANOTES,"Binh Thanh, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+54,logo-54.png,3FORCOM,"District 10, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+55,logo-55.png,"Allgrowlabo Co.,Ltd.","District 1, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+56,logo-56.png,Go2Joy,"District 5, Ho Chi Minh",Product,51-150,"Korea, Republic of",Monday - Friday,No OT
+57,logo-57.png,CarpTech,Ho Chi Minh,Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+58,logo-58.png,Live group,"District 1, Ho Chi Minh",Product,51-150,Australia,Monday - Friday,No OT
+59,logo-59.png,Swag Soft,"Phu Nhuan, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+60,logo-60.png,De Heus Asia,"District 2, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,Extra days off for OT
+61,logo-61.png,Omanee Corporation,"District 2, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+62,logo-62.png,Karros Technologies,"Tan Binh, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+63,logo-63.png,Doctor Anywhere Việt Nam,"Ho Chi Minh, Ha Noi",Product,51-150,Singapore,Monday - Friday,No OT
+64,logo-64.png,KMS Technology,"Ho Chi Minh, Da Nang, Ha Noi",Outsourcing,1000+,United States,Monday - Friday,No OT
+65,logo-65.png,ekino Vietnam,"District 11, Ho Chi Minh",Outsourcing,151-300,France,Monday - Friday,Extra salary for OT
+66,logo-66.png,East Agile,"Ho Chi Minh, Da Nang, Ha Noi",Outsourcing,51-150,United States,Monday - Friday,No OT
+67,logo-67.png,Hanatour Japan System Việt Nam,"Phu Nhuan, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+68,logo-68.png,NFQ Asia,"Ho Chi Minh, Da Nang",Outsourcing,301-500,Germany,Monday - Friday,No OT
+69,logo-69.png,Skedulo Vietnam,"District 3, Ho Chi Minh",Product,51-150,Australia,Monday - Friday,Extra days off for OT
+70,logo-70.png,WOWCNS VIETNAM,"Thu Duc, Ho Chi Minh",Outsourcing,18264,"Korea, Republic of",Monday - Friday,No OT
+71,logo-71.png,Comimex Solutions Vietnam,"District 3, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+72,logo-72.png,Techbase Vietnam,"District 1, Ho Chi Minh",Product,151-300,Japan,Monday - Friday,No OT
+73,logo-73.png,CYC-AI,"Ha Noi, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+74,logo-74.png,ALFA CONNECTIONS,Ho Chi Minh,Outsourcing,51-150,Singapore,Monday - Friday,No OT
+75,logo-75.png,GeoComply (GeoTech Hub Vietnam),"District 1, Ho Chi Minh",Product,51-150,Canada,Monday - Friday,No OT
+76,logo-76.png,Precio Fishbone Vietnam,"District 3, Ho Chi Minh",Product,51-150,Sweden,Monday - Friday,No OT
+77,logo-77.png,Samsung Electronics HCMC CE Complex,"Thu Duc, Ho Chi Minh",Product,1000+,"Korea, Republic of",Monday - Friday,No OT
+78,logo-78.png,Prudential Vietnam Assurance,"Ho Chi Minh, Ha Noi",Outsourcing,1000+,Vietnam,Monday - Friday,none
+79,logo-79.png,HL Solutions JSC,"Go Vap, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+80,logo-80.png,PROPZY,"District 11, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+81,logo-81.png,"CJ OLIVENETWORKS VINA CO., LTD",Ho Chi Minh,Product,18264,"Korea, Republic of",Monday - Friday,No OT
+82,logo-82.png,Qamera Design,"District 1, Ho Chi Minh",Outsourcing,18264,United States,Monday - Friday,No OT
+83,logo-83.png,Dirox,"Binh Thanh, Ho Chi Minh",Outsourcing,51-150,France,Monday - Friday,none
+84,logo-84.png,"Niteco Vietnam Co., Ltd","Ha Noi, Ho Chi Minh",Outsourcing,151-300,Sweden,Monday - Friday,none
+85,logo-85.png,Floware,"Phu Nhuan, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+86,logo-86.png,Ngân Hàng Á Châu | ACB,"District 3, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+87,logo-87.png,Inspectorio,"District 2, Ho Chi Minh",Product,151-300,United States,Monday - Friday,No OT
+88,logo-88.png,SSI Securities Corporation,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,none
+89,logo-89.png,ELCA,"Binh Thanh, Ho Chi Minh",Outsourcing,151-300,Switzerland,Monday - Friday,No OT
+90,logo-90.png,Infomed Viet Nam JSC,"Ha Noi, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+91,logo-91.png,Alpha Networks Solution,"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+92,logo-92.png,GGJungle,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+93,logo-93.png,INFORMATION TECHNOLOGY SERVICES JAPAN GROUP,Ho Chi Minh,Outsourcing,51-150,Vietnam,Monday - Friday,Extra salary for OT
+94,logo-94.png,LeapXpert,"District 1, Ho Chi Minh",Product,18264,Hong Kong,Monday - Friday,No OT
+95,logo-95.png,Swisslog Vietnam,"Tan Binh, Ho Chi Minh",Product,1000+,Switzerland,Monday - Friday,none
+96,logo-96.png,Comflysoft,"Binh Thanh, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+97,logo-97.png,Fois Vietnam,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+98,logo-98.png,Central Retail,"Phu Nhuan, Ho Chi Minh",Product,1000+,Thailand,Monday - Friday,No OT
+99,logo-99.png,Aleph Vietnam,Ho Chi Minh,Outsourcing,301-500,Singapore,Monday - Friday,No OT
+100,logo-100.png,Lecle Vietnam,"District 1, Ho Chi Minh",Outsourcing,18264,"Korea, Republic of",Monday - Friday,No OT
+101,logo-101.png,TPS Software,"Tan Binh, Ho Chi Minh",Outsourcing,151-300,Vietnam,Monday - Friday,No OT
+102,logo-102.png,CellphoneS,"District 1, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,No OT
+103,logo-103.png,HCL Vietnam Company Limited,"Ha Noi, Ho Chi Minh",Outsourcing,151-300,India,Monday - Friday,No OT
+104,logo-104.png,Nanosoft,"Ha Noi, Ho Chi Minh",Product,51-150,Vietnam,Monday - Saturday,none
+105,logo-105.png,KMS Solutions,"Tan Binh, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+106,logo-106.png,Silicon Prime Labs,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,OT included in base salary
+107,logo-107.png,ATALINK Technology,"District 12, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,Extra salary for OT
+108,logo-108.png,Jackdaw Ventures,"Other, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+109,logo-109.png,"MONEY FORWARD VIETNAM CO.,LTD","Ho Chi Minh, Ha Noi",Product,51-150,Japan,Monday - Friday,No OT
+110,logo-110.png,Groove Technology,"District 1, Ho Chi Minh",Outsourcing,51-150,Australia,Monday - Friday,No OT
+111,logo-111.png,DMS Co.Ltd,"District 9, Ho Chi Minh",Product,51-150,Vietnam,Monday - Saturday,Extra salary for OT
+112,logo-112.png,MTI TECHNOLOGY,"Ho Chi Minh, Da Nang",Product,151-300,Japan,Monday - Friday,No OT
+113,logo-113.png,RiverCrane Vietnam,Ho Chi Minh,Product,51-150,Japan,Monday - Friday,Extra salary for OT
+114,logo-114.png,Contemi Vietnam,"District 3, Ho Chi Minh",Product,51-150,Norway,Monday - Friday,No OT
+115,logo-115.png,Công ty TNHH Asean Fan,"Binh Thanh, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,none
+116,logo-116.png,Luxoft Vietnam,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,Extra salary for OT
+117,logo-117.png,NEC Vietnam,"Ho Chi Minh, Ha Noi",Outsourcing,151-300,Japan,Monday - Friday,Extra salary for OT
+118,logo-118.png,King Attorney Technology,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+119,logo-119.png,VNtravel Group,"Ha Noi, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+120,logo-120.png,GalaxyOne - A DigiTech Company From Sovico Group,Ho Chi Minh,Product,151-300,Vietnam,Monday - Friday,No OT
+121,logo-121.png,Creasia Group,"District 4, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+122,logo-122.png,Senspark,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+123,logo-123.png,Hitachi Vantara,"Ho Chi Minh, Ha Noi, Da Nang",Outsourcing,501-1000,United States,Monday - Friday,No OT
+124,logo-124.png,ASWHITE VIETNAM,Ho Chi Minh,Outsourcing,1000+,Australia,Monday - Friday,No OT
+125,logo-125.png,Jollibee Vietnam,"District 3, Ho Chi Minh",Product,1000+,Philippines,Monday - Friday,none
+126,logo-126.png,UNITZ,"Phu Nhuan, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+127,logo-127.png,HDBank,"District 1, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+128,logo-128.png,HDWEBSOFT,"Tan Binh, Ho Chi Minh",Outsourcing,151-300,Vietnam,Monday - Friday,No OT
+129,logo-129.png,Aperia Solutions Vietnam Co Ltd,"Ho Chi Minh, Da Nang",Product,301-500,United States,Monday - Friday,No OT
+130,logo-130.png,Positive Thinking Company (B.O.T),"Tan Binh, Ho Chi Minh",Product,301-500,Belgium,Monday - Friday,No OT
+131,logo-131.png,DatVietVAC,"District 3, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+132,logo-132.png,ABBANK,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,No OT
+133,logo-133.png,GHN,"District 10, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+134,logo-134.png,HANET Việt Nam - CN HCM,"District 7, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,OT included in base salary
+135,logo-135.png,CodeHQ (formerly Augen),"Ho Chi Minh, Others",Outsourcing,18264,New Zealand,Monday - Friday,No OT
+136,logo-136.png,Ominext,"Ha Noi, Ho Chi Minh",Outsourcing,301-500,Japan,Monday - Friday,No OT
+137,logo-137.png,Pacific Technology,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+138,logo-138.png,Fossil Vietnam,"District 4, Ho Chi Minh",Product,151-300,United States,Monday - Friday,Extra salary for OT
+139,logo-139.png,VINBRAIN,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+140,logo-140.png,Houze Group,"District 5, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+141,logo-141.png,Hansen Technologies,"Ho Chi Minh, Ha Noi, Da Nang",Product,51-150,Australia,Monday - Friday,No OT
+142,logo-142.png,SHINHAN DS,"District 3, Ho Chi Minh",Outsourcing,51-150,"Korea, Republic of",Monday - Friday,No OT
+143,logo-143.png,Smart Pay,"District 4, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+144,logo-144.png,DAYONE,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+145,logo-145.png,IHOUZZ TECH,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+146,logo-146.png,Minerva Technology Solutions,"District 5, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+147,logo-147.png,Silentium Vietnam,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+148,logo-148.png,ZALORA Group,"Ho Chi Minh, Others",Product,301-500,Singapore,Monday - Friday,No OT
+149,logo-149.png,ITviec,"Ho Chi Minh, Ha Noi",Product,18264,Japan,Monday - Friday,No OT
+150,logo-150.png,OCMG,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+151,logo-151.png,SkyLab,"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+152,logo-152.png,Parcel Perform,"Other, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+153,logo-153.png,Elefos,"Phu Nhuan, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+154,logo-154.png,Sacombank,"District 3, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,Extra salary for OT
+155,logo-155.png,CodeLink,"Ho Chi Minh, Da Nang, Ha Noi",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+156,logo-156.png,FINBASE,"Binh Thanh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+157,logo-157.png,Nexcel Solutions,"District 12, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,Extra salary for OT
+158,logo-158.png,Defide Vietnam,"Ho Chi Minh, Ha Noi",Product,18264,Japan,Monday - Friday,Extra salary for OT
+159,logo-159.png,Manabie International Pte Ltd,"Ho Chi Minh, Others",Product,51-150,Singapore,Monday - Friday,No OT
+160,logo-160.png,ANTADA,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+161,logo-161.png,YOONG,"Tan Phu, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+162,logo-162.png,Nakivo,"Ho Chi Minh, Ha Noi, Da Nang",Product,151-300,United States,Monday - Friday,No OT
+163,logo-163.png,LARION,"District 12, Ho Chi Minh",Outsourcing,151-300,Vietnam,Monday - Friday,No OT
+164,logo-164.png,Zalo,"Ho Chi Minh, Ha Noi",Product,501-1000,Vietnam,Monday - Friday,No OT
+165,logo-165.png,BAEMIN Vietnam (Woowa Bros.),"District 1, Ho Chi Minh",Product,301-500,"Korea, Republic of",Monday - Friday,No OT
+166,logo-166.png,"Starboard Asia Co.,ltd.","District 12, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+167,logo-167.png,Island Peak Cloud,"Binh Thanh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra salary for OT
+168,logo-168.png,Eplus Research,"Tan Binh, Ho Chi Minh",Product,151-300,Vietnam,Monday - Saturday,No OT
+169,logo-169.png,NCT Corporation,"District 7, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+170,logo-170.png,Confluence Vietnam (HCMC),"Binh Thanh, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+171,logo-171.png,The Away Group Viet Nam,"District 7, Ho Chi Minh",Outsourcing,151-300,Australia,Monday - Friday,Extra salary for OT
+172,logo-172.png,OLLI,"District 3, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+173,logo-173.png,UniBiz,"District 5, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+174,logo-174.png,ANSARADA in partnership with Positive Thinking Company,"Tan Binh, Ho Chi Minh",Product,51-150,Australia,Monday - Friday,No OT
+175,logo-175.png,Kambria & OhmniLabs Vietnam,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,none
+176,logo-176.png,TAPTAP,"District 1, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra salary for OT
+177,logo-177.png,CMC Sai Gon Technology & Solution,"District 7, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,none
+178,logo-178.png,Fonos,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+179,logo-179.png,Travel and Pay Software Solutions,"District 12, Ho Chi Minh",Product,51-150,Germany,Monday - Friday,No OT
+180,logo-180.png,MOSO,"Ho Chi Minh, Da Nang",Product,18264,United States,Monday - Friday,No OT
+181,logo-181.png,ASIM TELECOM,"Ho Chi Minh, Ha Noi, Da Nang",Product,51-150,Vietnam,Monday - Friday,No OT
+182,logo-182.png,Simple Tech Investment,"District 3, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+183,logo-183.png,Hubble Pte. Ltd,"Tan Binh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+184,logo-184.png,VietCredit,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,Extra days off for OT
+185,logo-185.png,Pascalia Asia Vietnam,"Ho Chi Minh, Da Nang, Others",Product,51-150,Japan,Monday - Friday,Extra salary for OT
+186,logo-186.png,Cathay Insurance,"District 1, Ho Chi Minh",Product,1000+,Taiwan,Monday - Friday,No OT
+187,logo-187.png,LIFULL Tech Vietnam,"District 3, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+188,logo-188.png,Intrepid Group,"District 1, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra salary for OT
+189,logo-189.png,Bosch Automotive R&D Center,"District 1, Ho Chi Minh",Product,51-150,Germany,Monday - Friday,No OT
+190,logo-190.png,MESSAGEMEDIA in partnership with Positive Thinking Company,"Tan Binh, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+191,logo-191.png,Viet Thai International,"Thu Duc City, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+192,logo-192.png,BE Solutions,"District 1, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,Extra salary for OT
+193,logo-193.png,Codelight,"Binh Thanh, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+194,logo-194.png,PwC Vietnam,"Ho Chi Minh, Ha Noi",Outsourcing,1000+,United States,Monday - Friday,No OT
+195,logo-195.png,Positive Thinking Company,"Tan Binh, Ho Chi Minh",Outsourcing,301-500,Belgium,Monday - Friday,No OT
+196,logo-196.png,Relia Systems,"Phu Nhuan, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+197,logo-197.png,D2B TRADING / EESSENTIALS,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+198,logo-198.png,Timo,"District 3, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+199,logo-199.png,Neo Consulting,"District 4, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+200,logo-200.png,SCC Vietnam,"District 7, Ho Chi Minh",Outsourcing,151-300,United Kingdom,Monday - Friday,No OT
+201,logo-201.png,Katalon,"District 4, Ho Chi Minh",Product,151-300,United States,Monday - Friday,No OT
+202,logo-202.png,Rakus Vietnam Company,"District 12, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+203,logo-203.png,Formos Vietnam,"Ho Chi Minh, Da Nang",Outsourcing,51-150,United States,Monday - Friday,No OT
+204,logo-204.png,ARIS Vietnam,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+205,logo-205.png,GUMAC,"Go Vap, Ho Chi Minh",Product,151-300,Vietnam,Monday - Saturday,No OT
+206,logo-206.png,Cloud Technology,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+207,logo-207.png,Copado Essentials,"Other, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+208,logo-208.png,Mecury Studio,"District 1, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra salary for OT
+209,logo-209.png,Alipay (Alibaba Group),"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+210,logo-210.png,AnFin,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+211,logo-211.png,LOTUS SOFT,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,Extra salary for OT
+212,logo-212.png,Nasys,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Saturday,No OT
+213,logo-213.png,Stepmedia Software,"Phu Nhuan, Ho Chi Minh",Product,151-300,Canada,Monday - Friday,No OT
+214,logo-214.png,Restaff,"Phu Nhuan, Ho Chi Minh",Product,51-150,Norway,Monday - Friday,No OT
+215,logo-215.png,Lozi,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Saturday,No OT
+216,logo-216.png,Vietmap,"District 5, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+217,logo-217.png,EcoTruck,"Phu Nhuan, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+218,logo-218.png,Chopp,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Saturday,No OT
+219,logo-219.png,ICD Vietnam,"District 1, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+220,logo-220.png,Template.net,"Tan Binh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+221,logo-221.png,EPAM,"Ho Chi Minh, Ha Noi, Da Nang",Product,51-150,United States,Monday - Friday,No OT
+222,logo-222.png,Aviron,"Tan Binh, Ho Chi Minh",Product,18264,Canada,Monday - Friday,No OT
+223,logo-223.png,Nucleus Studio,"District 10, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+224,logo-224.png,PAYME,"District 2, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+225,logo-225.png,LHV Software,"District 10, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+226,logo-226.png,The Rep. Office of STYL Solutions Pte. Ltd. In HCMC,"Ho Chi Minh, Others",Product,51-150,Singapore,Monday - Friday,No OT
+227,logo-227.png,PNC Telecom,"District 7, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+228,logo-228.png,VinHMS,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+229,logo-229.png,Wizeline,"District 10, Ho Chi Minh",Outsourcing,1000+,United States,Monday - Friday,No OT
+230,logo-230.png,Onpoint,"District 1, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,Extra days off for OT
+231,logo-231.png,SUCAFINA,"District 1, Ho Chi Minh",Outsourcing,151-300,Switzerland,Monday - Friday,No OT
+232,logo-232.png,Infinity Blockchain Labs (IBL),"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,Extra days off for OT
+233,logo-233.png,Advox Studio S.C.,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,Poland,Monday - Friday,No OT
+234,logo-234.png,TP&P Technology,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,United States,Monday - Friday,No OT
+235,logo-235.png,SAI Digital,"District 10, Ho Chi Minh",Outsourcing,151-300,Vietnam,Monday - Friday,Extra days off for OT
+236,logo-236.png,South Telecom,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,none
+237,logo-237.png,Knorex,"District 1, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+238,logo-238.png,Global Fashion Group,"District 4, Ho Chi Minh",Product,1000+,Singapore,Monday - Friday,No OT
+239,logo-239.png,BOCASAY,"Ho Chi Minh, Ha Noi",Outsourcing,18264,France,Monday - Friday,No OT
+240,logo-240.png,Anduin Transactions,"District 1, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+241,logo-241.png,Công Ty Cổ Phần Giải Pháp NewAlpha (NAS CORP),"District 10, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+242,logo-242.png,TREEHOUSE FINANCE,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+243,logo-243.png,Star Global,"Ho Chi Minh, Others",Outsourcing,18264,United States,Monday - Friday,No OT
+244,logo-244.png,BeeTech Media Company,"Ha Noi, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+245,logo-245.png,Topica Edtech Group,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,Extra salary for OT
+246,logo-246.png,GFT Technologies Vietnam,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,Germany,Monday - Friday,No OT
+247,logo-247.png,AITS | Vietnam Airlines,"Ha Noi, Ho Chi Minh, Da Nang",Outsourcing,301-500,Vietnam,Monday - Friday,No OT
+248,logo-248.png,Hahalolo,"Ha Noi, Ho Chi Minh, Others",Product,501-1000,Vietnam,Monday - Saturday,Extra salary for OT
+249,logo-249.png,Relyon IT Services,"Ha Noi, Ho Chi Minh, Others",Outsourcing,18264,Poland,Monday - Friday,No OT
+250,logo-250.png,Mirum Agency,"District 3, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,Extra salary for OT
+251,logo-251.png,Wata,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,No OT
+252,logo-252.png,Toyota Financial Services Vietnam,"Ho Chi Minh, Ha Noi",Product,18264,Japan,Monday - Friday,No OT
+253,logo-253.png, CÔNG TY TNHH JV-IT TECHS,"District 10, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,No OT
+254,logo-254.png,Công ty TNHH Enish Việt Nam,"District 1, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+255,logo-255.png,Oneempower,"Ha Noi, Ho Chi Minh",Outsourcing,51-150,Singapore,Monday - Friday,No OT
+256,logo-256.png,Salto Vietnam,"District 1, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+257,logo-257.png,POPS Worldwide,"District 10, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,none
+258,logo-258.png,Couture Consulting Vietnam,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+259,logo-259.png,Epsilo,"District 1, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+260,logo-260.png,Fincorp.,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+261,logo-261.png,TECALLIANCE VIETNAM,"District 3, Ho Chi Minh",Outsourcing,18264,Germany,Monday - Friday,No OT
+262,logo-262.png,Monster Pixel,"Tan Binh, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+263,logo-263.png,FPT Software,"Ho Chi Minh, Ha Noi, Da Nang, Others",Outsourcing,1000+,Vietnam,Monday - Friday,Extra salary for OT
+264,logo-264.png,Fram,"Ho Chi Minh, Da Nang",Outsourcing,51-150,Sweden,Monday - Friday,No OT
+265,logo-265.png,Athena Studio,"Tan Binh, Ho Chi Minh",Product,51-150,United Arab Emirates,Monday - Friday,No OT
+266,logo-266.png,Rooxim Computer Science,"Phu Nhuan, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+267,logo-267.png,LINE Vietnam,"District 10, Ho Chi Minh",Product,51-150,"Korea, Republic of",Monday - Friday,No OT
+268,logo-268.png,TEKMEDI,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+269,logo-269.png,Netcompany,"Binh Thanh, Ho Chi Minh",Outsourcing,1000+,Denmark,Monday - Friday,none
+270,logo-270.png,"AtMAN VINA, INC.","Binh Thanh, Ho Chi Minh",Outsourcing,18264,"Korea, Republic of",Monday - Friday,No OT
+271,logo-271.png,INKR Global,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+272,logo-272.png,Pmax Performance Marketing Agency,"District 2, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+273,logo-273.png,Saritasa,"District 1, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,Extra salary for OT
+274,logo-274.png,DIAG,"District 10, Ho Chi Minh",Product,301-500,United States,Monday - Friday,No OT
+275,logo-275.png,Daoukiwoom Innovation,"Binh Thanh, Ho Chi Minh",Product,501-1000,"Korea, Republic of",Monday - Friday,No OT
+276,logo-276.png,GIHOT,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+277,logo-277.png, WIIN VIỆT NAM,"Ha Noi, Ho Chi Minh",Product,18264,United States,Monday - Saturday,No OT
+278,logo-278.png,Ngân hàng TMCP Phương Đông | OCB,"District 1, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,No OT
+279,logo-279.png,VNG Corporation,"Ha Noi, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+280,logo-280.png,gumi Vietnam,"District 3, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,Extra salary for OT
+281,logo-281.png,Fitech,"Ha Noi, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+282,logo-282.png,NHN Vietnam,"Binh Thanh, Ho Chi Minh",Product,151-300,"Korea, Republic of",Monday - Friday,No OT
+283,logo-283.png,EVN SPCIT,"Tan Phu, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,Extra days off for OT
+284,logo-284.png,Vitalify Asia,"District 3, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+285,logo-285.png,Unifiedpost,"Binh Thanh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+286,logo-286.png,Zuhlke Engineering Ltd,"District 1, Ho Chi Minh",Outsourcing,1000+,Switzerland,Monday - Friday,No OT
+287,logo-287.png,URBOX,"Ha Noi, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+288,logo-288.png,Nexle Corporation,"Ho Chi Minh, Da Nang",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+289,logo-289.png,Binance,"District 1, Ho Chi Minh",Product,1000+,Singapore,Monday - Friday,No OT
+290,logo-290.png,NAL Solutions,"Da Nang, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+291,logo-291.png,Sutrix Solutions,"Tan Binh, Ho Chi Minh",Outsourcing,301-500,Vietnam,Monday - Friday,Extra salary for OT
+292,logo-292.png,Titan Technology Corporation,"Ho Chi Minh, Others",Outsourcing,151-300,Vietnam,Monday - Friday,No OT
+293,logo-293.png,Fetch Technology,"Ho Chi Minh, Ha Noi",Product,151-300,Vietnam,Monday - Friday,No OT
+294,logo-294.png,FWD,"District 1, Ho Chi Minh",Product,301-500,Hong Kong,Monday - Friday,OT included in base salary
+295,logo-295.png,Con C?ng,"District 7, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+296,logo-296.png,TIKI CORPORATION,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,No OT
+297,logo-297.png,Global Care,"District 3, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+298,logo-298.png,MERKLE VIETNAM,"Ho Chi Minh, Ha Noi",Outsourcing,151-300,France,Monday - Friday,Extra salary for OT
+299,logo-299.png,UNIT Corp,"District 3, Ho Chi Minh",Outsourcing,151-300,Vietnam,Monday - Friday,No OT
+300,logo-300.png,Photobank Inc.,"District 1, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+301,logo-301.png,Advance Vision Technology,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Australia,Monday - Friday,none
+302,logo-302.png,Spirit Labs,"District 1, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+303,logo-303.png,ZAMO,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+304,logo-304.png,PAPAYA INSURTECH,"District 4, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+305,logo-305.png,i3 DVR International,"Tan Binh, Ho Chi Minh",Product,51-150,Canada,Monday - Friday,No OT
+306,logo-306.png,Simpson Strong-Tie Vietnam,"Tan Binh, Ho Chi Minh",Product,151-300,United States,Monday - Friday,No OT
+307,logo-307.png,Cloud Ace,"Ho Chi Minh, Ha Noi, Da Nang",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+308,logo-308.png,PosApp,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+309,logo-309.png,Motorola Solutions,"Phu Nhuan, Ho Chi Minh",Product,1000+,United States,Monday - Friday,No OT
+310,logo-310.png,VNTT | Vietnam Technology & Telecommunication JSC.,"Ho Chi Minh, Others",Product,151-300,Vietnam,Monday - Friday,No OT
+311,logo-311.png,Công ty cổ phần Camly Platform,"District 1, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+312,logo-312.png,Clever Age,"Ho Chi Minh, Ha Noi",Outsourcing,301-500,France,Monday - Friday,No OT
+313,logo-313.png,CIMB Bank Vietnam,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+314,logo-314.png,GoSell,"Tan Binh, Ho Chi Minh",Product,151-300,Canada,Monday - Friday,No OT
+315,logo-315.png,Tekcent Vietnam,"District 1, Ho Chi Minh",Outsourcing,51-150,Hong Kong,Monday - Friday,none
+316,logo-316.png,"OUTSOURCE EXPERT VIET NAM CO.,LTD","District 3, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+317,logo-317.png,HARAVAN,"District 11, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,none
+318,logo-318.png,Deliveree On-Demand Logistics,"Tan Binh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,none
+319,logo-319.png,Elisoft,"Phu Nhuan, Ho Chi Minh",Outsourcing,51-150,Belarus,Monday - Friday,No OT
+320,logo-320.png,Beta Proptech,Ho Chi Minh,Product,51-150,Vietnam,Monday - Friday,No OT
+321,logo-321.png,Holistics,"District 10, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+322,logo-322.png,DevDirect Ltd.,"District 1, Ho Chi Minh",Outsourcing,18264,"Korea, Republic of",Monday - Friday,No OT
+323,logo-323.png,"Ndex Technologies, Inc.","Phu Nhuan, Ho Chi Minh",Outsourcing,18264,United States,Monday - Friday,Extra salary for OT
+324,logo-324.png,9PMP,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,Extra days off for OT
+325,logo-325.png,Bonsey Jaden,"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+326,logo-326.png,RMIT University Vietnam,"Ho Chi Minh, Ha Noi",Product,301-500,Vietnam,Monday - Friday,No OT
+327,logo-327.png,BMD SOLUTION,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+328,logo-328.png,Waverley Software,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,No OT
+329,logo-329.png,Công tyCổ Phần Công Nghệ DNG,"Tan Phu, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Saturday,No OT
+330,logo-330.png,MiTek Viet Nam,"District 7, Ho Chi Minh",Outsourcing,1000+,Vietnam,Monday - Friday,Extra salary for OT
+331,logo-331.png,Live1,"District 1, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+332,logo-332.png,IPROSYS,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+333,logo-333.png,DEVBLOCK VIETNAM,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,United States,Monday - Friday,none
+334,logo-334.png,Relationshop Inc.,"Binh Thanh, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+335,logo-335.png,TADA Technologies,"District 2, Ho Chi Minh",Product,18264,"Korea, Republic of",Monday - Friday,No OT
+336,logo-336.png,Officience,"District 10, Ho Chi Minh",Outsourcing,151-300,France,Monday - Friday,No OT
+337,logo-337.png,RnD4U,"Ho Chi Minh, Da Nang",Product,18264,Czechia,Monday - Friday,No OT
+338,logo-338.png,Bambooship,"Phu Nhuan, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+339,logo-339.png,MIANMI,"Ho Chi Minh, Ha Noi",Product,18264,Vietnam,Monday - Friday,No OT
+340,logo-340.png,LittleLives,"District 10, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+341,logo-341.png,Shinhan Finance Vietnam,Ho Chi Minh,Product,1000+,Vietnam,Monday - Friday,No OT
+342,logo-342.png,Teqnological Asia,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+343,logo-343.png,CÔNG TY TNHH FINAN,"Binh Thanh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+344,logo-344.png,Theodore Alexander HCM,"Thu Duc, Ho Chi Minh",Product,301-500,United States,Monday - Friday,No OT
+345,logo-345.png,Rich Products Vietnam,"District 5, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,none
+346,logo-346.png,Công ty Cổ phần Kho bãi & Giao nhậnT&C,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+347,logo-347.png,JOURNEYHORIZON,"District 5, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+348,logo-348.png,EyeClick,"District 2, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+349,logo-349.png,Hello Health Group,"District 1, Ho Chi Minh",Product,151-300,Singapore,Monday - Friday,No OT
+350,logo-350.png,APAC Pro,"Phu Nhuan, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+351,logo-351.png,Bridgetek Viet Nam,"Phu Nhuan, Ho Chi Minh",Product,301-500,Singapore,Monday - Friday,No OT
+352,logo-352.png,User Experience Researchers,"Ho Chi Minh, Others",Outsourcing,18264,Singapore,Monday - Friday,No OT
+353,logo-353.png,DIGIHUBS JSC,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+354,logo-354.png,Viet A Bank,"Ha Noi, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,No OT
+355,logo-355.png,NEXLAB TECHNOLOGY,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+356,logo-356.png,Vinova,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,Singapore,Monday - Friday,Extra salary for OT
+357,logo-357.png,POC Pharma VietNam,"District 1, Ho Chi Minh",Product,18264,Hong Kong,Monday - Friday,No OT
+358,logo-358.png,SKARGON,"District 4, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+359,logo-359.png,N.A.M,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,Extra salary for OT
+360,logo-360.png,S3 Innovate Pte. Ltd.,Ho Chi Minh,Product,51-150,Singapore,Monday - Friday,No OT
+361,logo-361.png,Open Fabric,"Others, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+362,logo-362.png,Docosan,Ho Chi Minh,Product,18264,United States,Monday - Friday,No OT
+363,logo-363.png,Public Bank Vietnam,"Ha Noi, Ho Chi Minh",Outsourcing,501-1000,Vietnam,Monday - Friday,none
+364,logo-364.png,Lisa,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+365,logo-365.png,"MOJA Co., Ltd.","Binh Thanh, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,Extra salary for OT
+366,logo-366.png,Gsoft,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+367,logo-367.png,EQONEX Group,"Ho Chi Minh, Ha Noi, Da Nang",Product,151-300,Hong Kong,Monday - Friday,No OT
+368,logo-368.png,SunDigi,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+369,logo-369.png,Control Union Vietnam,"Thu Duc, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+370,logo-370.png,Sosene Software,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Czechia,Monday - Friday,No OT
+371,logo-371.png,VietUnion (Payoo),"District 1, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+372,logo-372.png,Saaspiens,"District 10, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+373,logo-373.png,Flight Centre Travel Group,"Thu Duc City, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+374,logo-374.png,SPARKMINDS,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+375,logo-375.png,Worknetics Pte Ltd,"District 4, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+376,logo-376.png,Hydra X,"Binh Thanh, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+377,logo-377.png,ECOMBEST LLC,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+378,logo-378.png,Fitness & Lifestyle Group (FLG) Viet Nam,"District 4, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+379,logo-379.png,VIETJETAIR CARGO JSC,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+380,logo-380.png,OLMO Technology,"District 7, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+381,logo-381.png,VIHAT Technology,"Thu Duc, Ho Chi Minh",Product,151-300,Vietnam,Monday - Saturday,No OT
+382,logo-382.png,Shift Asia Vietnam,"District 1, Ho Chi Minh",Outsourcing,151-300,Japan,Monday - Friday,Extra salary for OT
+383,logo-383.png,Lac Viet Computing Corporation,"Phu Nhuan, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+384,logo-384.png,"Lotte Data Communicaton Co., Ltd Vietnam","Ha Noi, Ho Chi Minh",Product,151-300,"Korea, Republic of",Monday - Friday,none
+385,logo-385.png,CÔNG TY TNHH NHA KHOA MY AURIS,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+386,logo-386.png,Ngân Hàng TMCP Sài Gòn (SCB),"District 5, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,Extra salary for OT
+387,logo-387.png,Serdao,"Ho Chi Minh, Ha Noi",Outsourcing,51-150,France,Monday - Friday,No OT
+388,logo-388.png,2359 Media Viet Nam,"District 10, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,Extra salary for OT
+389,logo-389.png,Hung Thinh Corporation,"District 3, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,No OT
+390,logo-390.png,CARE CONNECT VIETNAM,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,Extra salary for OT
+391,logo-391.png,Artstuff,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+392,logo-392.png,AdStart Media Pte Ltd,"District 2, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+393,logo-393.png,Vulcan Labs,"Thu Duc, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+394,logo-394.png,BRICKMATE GROUP VIETNAM,"District 10, Ho Chi Minh",Outsourcing,51-150,"Korea, Republic of",Monday - Friday,No OT
+395,logo-395.png,GreenFeed,"District 3, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+396,logo-396.png,10X Technology and Consulting,"District 3, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+397,logo-397.png,FPT Information System Corporation,"Ha Noi, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,Extra salary for OT
+398,logo-398.png,bravesoft Vietnam,"District 10, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+399,logo-399.png,Vincere,"District 1, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra salary for OT
+400,logo-400.png,Easybook.com,"Phu Nhuan, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+401,logo-401.png,Biglabs,"District 3, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+402,logo-402.png,New Pinetech,"District 1, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+403,logo-403.png,LikeLion Vietnam,"District 3, Ho Chi Minh",Product,18264,"Korea, Republic of",Monday - Friday,No OT
+404,logo-404.png,Laudert Vietnam,"Phu Nhuan, Ho Chi Minh",Outsourcing,18264,Germany,Monday - Friday,Extra days off for OT
+405,logo-405.png,CH Resource Vietnam,"District 2, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,No OT
+406,logo-406.png,Liberty Insurance Limited,"District 1, Ho Chi Minh",Product,301-500,United States,Monday - Friday,Extra salary for OT
+407,logo-407.png,Taggle Pte. Ltd.,"Tan Binh, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+408,logo-408.png,FDS Software,"District 2, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+409,logo-409.png,Techcombank,"Ha Noi, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+410,logo-410.png,CÔNG TY DỊCH VỤ MOBIFONE KHU V?C 2,"District 10, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+411,logo-411.png,Công ty Cổ phần Chứng khoán Tiên Phong,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+412,logo-412.png,Success Software Services,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+413,logo-413.png,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ MÁY TÍNH VŨ ANH,"Tan Phu, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+414,logo-414.png,CÔNG TY TNHH R TECHNO VIỆT NAM,"Binh Thanh, Ho Chi Minh",Outsourcing,151-300,Japan,Monday - Friday,No OT
+415,logo-415.png,AES Technologies,"Binh Thanh, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+416,logo-416.png,POETA,"District 3, Ho Chi Minh",Outsourcing,18264,Canada,Monday - Friday,Extra salary for OT
+417,logo-417.png,FLYNK,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Australia,Monday - Friday,No OT
+418,logo-418.png,Jenfi,"Ho Chi Minh, Ha Noi",Product,18264,Singapore,Monday - Friday,No OT
+419,logo-419.png,Poloman,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+420,logo-420.png,Công Ty TNHH Enjoyworks,"Da Nang, Ho Chi Minh",Product,18264,"Korea, Republic of",Monday - Friday,No OT
+421,logo-421.png,New Ocean IS,Ho Chi Minh,Outsourcing,51-150,Vietnam,Monday - Friday,Extra salary for OT
+422,logo-422.png,Kamereo,"Binh Thanh, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+423,logo-423.png,Athena,"District 2, Ho Chi Minh",Outsourcing,18264,France,Monday - Friday,Extra salary for OT
+424,logo-424.png,ONSKY VIETNAM,"Thu Duc City, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+425,logo-425.png,IPFS,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,Extra days off for OT
+426,logo-426.png,DataHouse Asia,"Ho Chi Minh, Da Nang, Others",Outsourcing,51-150,United States,Monday - Friday,Extra salary for OT
+427,logo-427.png,Genesys,"Binh Thanh, Ho Chi Minh",Product,51-150,Vietnam,none,none
+428,logo-428.png,WIGROUP,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+429,logo-429.png,MODEC,"Others, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+430,logo-430.png,Kyber Network,"Ha Noi, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,none
+431,logo-431.png,Hash Consulting Group,"Other, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+432,logo-432.png,Gotadi,"District 3, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,none
+433,logo-433.png,Discovery Loft Inc.,"District 1, Ho Chi Minh",Product,51-150,Canada,Monday - Friday,No OT
+434,logo-434.png,IncepIT,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+435,logo-435.png,SAIGON BPO,"District 4, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+436,logo-436.png,TECH JDI,Ho Chi Minh,Product,18264,Singapore,Monday - Friday,No OT
+437,logo-437.png,HICAS,"Ha Noi, Ho Chi Minh",Product,18264,Vietnam,Monday - Saturday,Extra salary for OT
+438,logo-438.png,CUBICSTACK SOLUTIONS,"District 10, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+439,logo-439.png,FE CREDIT,"District 4, Ho Chi Minh",Product,1000+,Vietnam,Monday - Friday,No OT
+440,logo-440.png,MLPERT,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+441,logo-441.png,TechVSI,"Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+442,logo-442.png,FINVIET,"Tan Binh, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+443,logo-443.png,GuardRails,"Ho Chi Minh, Ha Noi",Product,18264,Singapore,Monday - Friday,No OT
+444,logo-444.png,INFOASIA SOFTWARE,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+445,logo-445.png,Dai-ichi Life Việt Nam,"Phu Nhuan, Ho Chi Minh",Product,1000+,Japan,Monday - Friday,Extra salary for OT
+446,logo-446.png,VPDD Plott Corporation tại TP.HCM,"Tan Binh, Ho Chi Minh",Product,51-150,Japan,Monday - Friday,No OT
+447,logo-447.png,Pizza Hut Digital Ventures,"Tan Binh, Ho Chi Minh",Product,51-150,United Kingdom,Monday - Friday,No OT
+448,logo-448.png,Remote Resources VN (RRVN),Ho Chi Minh,Outsourcing,51-150,Vietnam,Monday - Friday,none
+449,logo-449.png,Citigo Software,"Ha Noi, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,Extra salary for OT
+450,logo-450.png,Vouch SG Pte Ltd,"Thu Duc City, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+451,logo-451.png,EIGEN ENERGY PTE LTD,"District 1, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+452,logo-452.png,MicroSec,"District 3, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+453,logo-453.png,"DFK CO.,LTD","Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+454,logo-454.png,ITBee Solutions,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+455,logo-455.png,Hero Arena,"Other, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+456,logo-456.png,"Javac Technology Software Company, Ltd","Tan Binh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+457,logo-457.png,ICSC,"District 12, Ho Chi Minh",Outsourcing,18264,Vietnam,none,none
+458,logo-458.png,ZEN APP,"Go Vap, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+459,logo-459.png,Woss Corporation,"District 2, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+460,logo-460.png,Mac Marketing,"District 1, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+461,logo-461.png,The Vietnam Group,"Binh Thanh, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+462,logo-462.png,Integro Technologies,"Ha Noi, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+463,logo-463.png,Zim Academy,"District 5, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+464,logo-464.png,Bein,"District 7, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+465,logo-465.png,Absolute Software (Vietnam) Ltd,"Tan Binh, Ho Chi Minh",Product,501-1000,Canada,Monday - Friday,No OT
+466,logo-466.png,CNV Holdings,"Ho Chi Minh, Ha Noi",Product,51-150,Vietnam,Monday - Friday,No OT
+467,logo-467.png,MangoAds,"District 10, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+468,logo-468.png,Port Cities Vietnam,"District 4, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+469,logo-469.png,Raksul Vietnam,"District 1, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+470,logo-470.png,IT-Development Vietnam,"District 3, Ho Chi Minh",Product,18264,France,Monday - Friday,No OT
+471,logo-471.png,CRYSTAL BAY TECHNOLOGY,Others,Product,18264,Vietnam,Monday - Friday,OT included in base salary
+472,logo-472.png,Alpaca Vietnam,"Ho Chi Minh, Ha Noi",Product,18264,Vietnam,Monday - Friday,No OT
+473,logo-473.png,Sango Technologies Inc,"Phu Nhuan, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+474,logo-474.png,1CLOUDSTAR,"District 3, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+475,logo-475.png,InteliSys Aviation,"Tan Binh, Ho Chi Minh",Product,51-150,Canada,Monday - Friday,No OT
+476,logo-476.png,QA Solutions,"Phu Nhuan, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,Extra salary for OT
+477,logo-477.png,Enrich & Co.,"Go Vap, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+478,logo-478.png,MECAR,Ho Chi Minh,Product,18264,Vietnam,Monday - Friday,No OT
+479,logo-479.png,"MonoRevo, Inc.","District 1, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+480,logo-480.png,MAXIMUS SOLUTION COMPANY LIMITED,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+481,logo-481.png,ubitec,"Ho Chi Minh, Da Nang, Others",Product,18264,Switzerland,Monday - Friday,No OT
+482,logo-482.png,ShopBack,"District 11, Ho Chi Minh",Product,301-500,Singapore,Monday - Friday,No OT
+483,logo-483.png,Mgif Studio,"Other, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+484,logo-484.png,AnyMind Group,"Ho Chi Minh, Ha Noi",Product,51-150,Singapore,Monday - Friday,No OT
+485,logo-485.png,Grex Solutions,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+486,logo-486.png,Levitate,"District 1, Ho Chi Minh",Product,18264,Netherlands,Monday - Friday,No OT
+487,logo-487.png,Applivi,"District 2, Ho Chi Minh",Outsourcing,18264,Germany,Monday - Friday,No OT
+488,logo-488.png,RedFOX Labs,"Ho Chi Minh, Others",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+489,logo-489.png,FAHASA,"District 3, Ho Chi Minh",Product,301-500,Vietnam,none,none
+490,logo-490.png,Virtual Internships,"District 2, Ho Chi Minh",Product,51-150,United Kingdom,Monday - Friday,No OT
+491,logo-491.png,Inceptionlabs,"District 4, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,Extra days off for OT
+492,logo-492.png,S3 Corporation (S3Corp.),"Tan Binh, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,Extra days off for OT
+493,logo-493.png,"Got It, Inc.","Ha Noi, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+494,logo-494.png,HSC,"District 1, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+495,logo-495.png,FunnelBeam,"Ha Noi, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+496,logo-496.png,Thế Giới Di Động,"District 9, Ho Chi Minh",Product,1000+,Vietnam,Monday - Saturday,No OT
+497,logo-497.png,Saigon Valley Company,"Ho Chi Minh, Da Nang",Product,18264,United States,Monday - Friday,No OT
+498,logo-498.png,M_Service (MoMo),"Ho Chi Minh, Ha Noi",Product,501-1000,Vietnam,Monday - Friday,Extra days off for OT
+499,logo-499.png,Kobo Asia,"District 3, Ho Chi Minh",Product,18264,Japan,Monday - Friday,No OT
+500,logo-500.png,OPSWAT Software Vietnam,"District 3, Ho Chi Minh",Product,151-300,United States,Monday - Friday,No OT
+501,logo-501.png,TrophyRoom,Ho Chi Minh,Product,18264,Singapore,Monday - Friday,No OT
+502,logo-502.png,Altisss,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+503,logo-503.png,Smartlog,"District 2, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,Extra salary for OT
+504,logo-504.png,Lihuhu Pte. Ltd.,"Tan Binh, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+505,logo-505.png,Xenia Tech,"Da Nang, Ho Chi Minh",Outsourcing,18264,United Kingdom,Monday - Friday,No OT
+506,logo-506.png,Aspire,"Others, Ho Chi Minh, Ha Noi",Product,151-300,Singapore,Monday - Friday,No OT
+507,logo-507.png,Splash Interactive Vietnam,"Binh Thanh, Ho Chi Minh",Outsourcing,51-150,Singapore,Monday - Friday,No OT
+508,logo-508.png,Autonomous,"Phu Nhuan, Ho Chi Minh",Product,51-150,United States,Monday - Friday,Extra days off for OT
+509,logo-509.png,SILKWIRES DIGITAL AGENCY,"District 1, Ho Chi Minh",Outsourcing,18264,France,Monday - Friday,No OT
+510,logo-510.png,VT - MILISALE COMPANY LIMITED,"District 4, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+511,logo-511.png,Kayrus Media,"District 12, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+512,logo-512.png,Gia Nguyễn Ads,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+513,logo-513.png,Wiin Beauty Center,"District 3, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+514,logo-514.png,Thegoodguys Technology,"District 3, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+515,logo-515.png,CabinEat,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Saturday,No OT
+516,logo-516.png,New Wealth,"Phu Nhuan, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+517,logo-517.png,VinID (A member of One Mount Group),"Ha Noi, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Saturday,Extra salary for OT
+518,logo-518.png,REVER,"District 2, Ho Chi Minh",Product,301-500,Vietnam,Monday - Friday,No OT
+519,logo-519.png,ServiceOne Global,"Thu Duc, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+520,logo-520.png,KAS,"Thu Duc City, Ho Chi Minh",Product,51-150,Vietnam,Monday - Saturday,No OT
+521,logo-521.png,Orient Software Development Corp.,"Ho Chi Minh, Da Nang",Outsourcing,151-300,Singapore,Monday - Friday,No OT
+522,logo-522.png,Spiraledge,Ho Chi Minh,Product,301-500,United States,Monday - Friday,No OT
+523,logo-523.png,TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY,"Tan Phu, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+524,logo-524.png,"rakumo Co., Ltd","Tan Binh, Ho Chi Minh",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+525,logo-525.png,mHealth Technologies,"District 2, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+526,logo-526.png,Kompa,"District 10, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+527,logo-527.png,Citek Technology JSC,"Ho Chi Minh, Ha Noi",Product,151-300,Vietnam,Monday - Friday,Extra salary for OT
+528,logo-528.png,Ambition Vietnam,"District 3, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+529,logo-529.png,Sun Life Vietnam Insurance Company Limited,Ho Chi Minh,Product,301-500,Canada,Monday - Friday,none
+530,logo-530.png,MOR,"Ho Chi Minh, Ha Noi, Da Nang",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+531,logo-531.png,Agile Lab Pte Ltd,"Other, Ho Chi Minh",Outsourcing,18264,Singapore,Monday - Friday,No OT
+532,logo-532.png,NUS Technology,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+533,logo-533.png,Wego.com,"Ho Chi Minh, Ha Noi, Others",Product,151-300,Singapore,Monday - Friday,No OT
+534,logo-534.png,GAPIT Communication,"Ha Noi, Ho Chi Minh",Product,51-150,Vietnam,Monday - Friday,No OT
+535,logo-535.png,Avantility,"District 3, Ho Chi Minh",Outsourcing,18264,United States,Monday - Friday,No OT
+536,logo-536.png,Orange Logic,"District 1, Ho Chi Minh",Product,18264,United States,Monday - Friday,No OT
+537,logo-537.png,Song Technologies LLC,"Binh Thanh, Ho Chi Minh",Product,51-150,United States,Monday - Friday,No OT
+538,logo-538.png,VNPT THÀNH PhỐ HỒ CHÍ MINH,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+539,logo-539.png,Aureole Information Technology (AIT),"Ho Chi Minh, Others",Outsourcing,51-150,Japan,Monday - Friday,Extra salary for OT
+540,logo-540.png,BCA Solutions,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+541,logo-541.png,Designer Journeys,"Tan Binh, Ho Chi Minh",Product,51-150,Australia,Monday - Friday,No OT
+542,logo-542.png,Yeah1 Network,"District 3, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+543,logo-543.png,Otanics Technology,"District 3, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+544,logo-544.png,GMO-Z.com RUNSYSTEM,"Ha Noi, Ho Chi Minh, Da Nang",Outsourcing,501-1000,Japan,Monday - Friday,none
+545,logo-545.png,Nichietsu Vietnam,Ho Chi Minh,Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+546,logo-546.png,Resola Inc,"Others, Ho Chi Minh, Da Nang, Ha Noi",Product,18264,Japan,Monday - Friday,No OT
+547,logo-547.png,PAL TECH,"Tan Binh, Ho Chi Minh",Product,51-150,Singapore,Monday - Friday,Extra days off for OT
+548,logo-548.png,BIGTREES,"District 7, Ho Chi Minh",Outsourcing,18264,Vietnam,Monday - Friday,No OT
+549,logo-549.png,Bstar Solutions,"Tan Binh, Ho Chi Minh",Outsourcing,51-150,Vietnam,Monday - Friday,No OT
+550,logo-550.png,Telio,"Ha Noi, Ho Chi Minh",Product,501-1000,Vietnam,Monday - Friday,No OT
+551,logo-551.png,"Viaconto Co., Ltd.","District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+552,logo-552.png,Dreamcloud Pte Ltd.,"Tan Binh, Ho Chi Minh",Product,18264,Singapore,Monday - Friday,No OT
+553,logo-553.png,TITKUL,"Tan Binh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+554,logo-554.png,JT GLOBAL IMPORT EXPORT COMPANY LIMITED,"District 7, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+555,logo-555.png,SIMON SYSTEMS LTD,"Binh Thanh, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+556,logo-556.png,"ECR VIETNAM CO., LTD","Binh Thanh, Ho Chi Minh",Product,51-150,United Kingdom,Monday - Friday,No OT
+557,logo-557.png,Vidbeyond,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+558,logo-558.png,Strategic AI,"District 3, Ho Chi Minh",Product,18264,Australia,Monday - Friday,No OT
+559,logo-559.png, Ngân hàng Xây Dựng | CBBank,"Ho Chi Minh, Ha Noi",Product,1000+,Vietnam,Monday - Friday,No OT
+560,logo-560.png,IVS,"Ho Chi Minh, Ha Noi",Outsourcing,301-500,Japan,Monday - Friday,Extra salary for OT
+561,logo-561.png,Yourdev,"Ho Chi Minh, Ha Noi",Outsourcing,18264,United Kingdom,Monday - Friday,No OT
+562,logo-562.png,KDS Vietnam,"District 1, Ho Chi Minh",Outsourcing,18264,Japan,Monday - Friday,No OT
+563,logo-563.png,Saigon New Port,"District 2, Ho Chi Minh",Product,151-300,Vietnam,Monday - Friday,No OT
+564,logo-564.png,Musk Vietnam,"Thu Duc, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+565,logo-565.png,FUNDOO,"District 1, Ho Chi Minh",Product,18264,Vietnam,Monday - Friday,No OT
+566,logo-566.png,Vision Vietnam,"Ho Chi Minh, Ha Noi",Product,18264,Japan,Monday - Friday,Extra salary for OT
+567,logo-567.png,Tutuka,"Others, Ho Chi Minh, Ha Noi, Da Nang",Product,51-150,South Africa,Monday - Friday,No OT
